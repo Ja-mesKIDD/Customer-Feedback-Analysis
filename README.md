@@ -26,7 +26,6 @@ To analyze customer feedback using both EDA and NLP techniques in order to:
 * **Pandas**, **Matplotlib**, **Seaborn**: For data cleaning and visualization
 * **NLTK**, **TextBlob**, **WordCloud**: For sentiment analysis and text mining
 * **Jupyter Notebook**: Interactive exploration
-* **PowerPoint / PDF**: For final reporting
 
 ## 🔍 Key Analysis Areas
 
